@@ -1,4 +1,3 @@
-layout_spectrum: 0.0757501118350774
 typography_spectrum: 0.9111814715433866
 color:
   brandStrength: 0.5707908889744431
@@ -11,4 +10,6 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+layout_spectrum: 0.0757501118350774
 name: fennotech
+title: Fenno.tech
