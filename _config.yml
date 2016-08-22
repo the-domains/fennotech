@@ -1,0 +1,14 @@
+layout_spectrum: 0.0757501118350774
+typography_spectrum: 0.9111814715433866
+color:
+  brandStrength: 0.5707908889744431
+  lightness: 0.5136428459081799
+  saturation: 0.11071019875817001
+  rhythmicContrast: 0.10765257314778864
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: fennotech
